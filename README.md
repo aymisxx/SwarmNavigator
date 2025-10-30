@@ -1,7 +1,7 @@
 # SwarmNavigator
 
 **Decentralized Multi-Agent Coverage & Obstacle Avoidance in 2D Gridworlds (Reinforcement Learning Framework)**  
-*Ayushman Mishra (`aymisxx`)* 
+*Ayushman Mishra (`@aymisxx`)* 
 
 ---
 
