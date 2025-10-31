@@ -123,7 +123,7 @@ Email (Personal): [4yxmi0@gmail.com]
 
 ---
 
-## Limitations & Future Directions
+## Limitations & Future Possibilities
 
 - **Exploration:** Current RL policies may converge to local optima in sparse reward settings. Future work includes intrinsic exploration, curriculum learning, and attention-based communication.
 - **Scalability:** Demonstrated for up to 4 agents; future work to extend to larger swarms and grids.
