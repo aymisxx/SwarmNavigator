@@ -42,7 +42,7 @@ SwarmNavigator/
 | Full Visualization         | Step-by-step grid plots, coverage heatmaps, color-coded agent trajectories.          |
 | GIF/MP4 Export             | Animated demos of agent and swarm rollouts for documentation and recruiter demos.    |
 | Logging & Reproducibility  | All training logs and outputs saved in dedicated folders for each algorithm.         |
-| Extensible Architecture    | Object-oriented code, ready for ROS2 integration, curriculum RL, or vision tasks.    |
+| Extensible Architecture    | Object-oriented code, ready for ROS-2 integration, curriculum RL, or vision tasks.   |
 
 ---
 
