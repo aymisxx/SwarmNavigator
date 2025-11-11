@@ -119,7 +119,7 @@ Arizona State University
 [Linkedin: Ayushman Mishra](https://linkedin.com/in/aymisxx)  
 [GitHub: Ayushman M. (aymisxx)](https://github.com/aymisxx)  
 Email (University): [amish141@asu.edu]  
-Email (Personal): [4yxmi0@gmail.com]
+Email (Personal): [aymisxx@proton.me]
 
 ---
 
